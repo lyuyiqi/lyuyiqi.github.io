@@ -1,0 +1,10 @@
+@article{ding2021multimodal,
+  title={Multimodal safety-critical scenarios generation for decision-making algorithms evaluation},
+  author={Ding, Wenhao and Chen, Baiming and Li, Bo and Eun, Kim Ji and Zhao, Ding},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={2},
+  pages={1551--1558},
+  year={2021},
+  publisher={IEEE}
+}
